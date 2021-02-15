@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>ec55c9d9-0f35-44a9-8951-bcfc1491a94a</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WalletAPI.Core\WalletAPI.Core.csproj" />
+    <ProjectReference Include="..\WalletAPI.Infrastructure\WalletAPI.Infrastructure.csproj" />
+  </ItemGroup>
+
+
+</Project>

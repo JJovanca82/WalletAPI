@@ -1,0 +1,9 @@
+C:\Users\Lenovo\source\repos\WalletAPI.Core\bin\Release\netcoreapp3.1\WalletAPI.Core.deps.json
+C:\Users\Lenovo\source\repos\WalletAPI.Core\bin\Release\netcoreapp3.1\WalletAPI.Core.dll
+C:\Users\Lenovo\source\repos\WalletAPI.Core\bin\Release\netcoreapp3.1\WalletAPI.Core.pdb
+C:\Users\Lenovo\source\repos\WalletAPI.Core\obj\Release\netcoreapp3.1\WalletAPI.Core.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\WalletAPI.Core\obj\Release\netcoreapp3.1\WalletAPI.Core.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\WalletAPI.Core\obj\Release\netcoreapp3.1\WalletAPI.Core.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\WalletAPI.Core\obj\Release\netcoreapp3.1\WalletAPI.Core.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\WalletAPI.Core\obj\Release\netcoreapp3.1\WalletAPI.Core.dll
+C:\Users\Lenovo\source\repos\WalletAPI.Core\obj\Release\netcoreapp3.1\WalletAPI.Core.pdb
